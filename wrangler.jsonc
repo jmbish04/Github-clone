@@ -29,7 +29,7 @@
     "kv_namespaces": [
       {
         "binding": "KVStore",
-        "id": "{{KV_ID}}"
+        "id": "dc4f937f170b4258ad954219fa151f17"
       }
     ]
 	/**
